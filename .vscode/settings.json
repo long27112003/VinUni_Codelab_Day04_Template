@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./starter-code",
+        "./autograder"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./starter-code",
+        "./autograder"
+    ]
+}
